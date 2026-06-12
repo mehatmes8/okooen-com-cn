@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mehatmes8.github.io/okooen-com-cn/sitemap.xml
